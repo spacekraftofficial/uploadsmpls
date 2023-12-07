@@ -1,0 +1,22 @@
+.flexbox-contianer {
+    margin-left: 35%;
+    margin-right: 35%;
+    background-color: #3c3c3c;
+    padding-left: 5%;
+
+}
+
+.flex1 {
+    all: unset;
+}
+
+#file-fetch {
+    all: unset;
+    border: none;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+#file-fetch:hover {
+    color: #fa05d1;
+}
